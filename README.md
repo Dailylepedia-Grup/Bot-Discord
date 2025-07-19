@@ -1,4 +1,3 @@
-# 📁 File: README.md
 # 🤖 BotDS - Discord Music Bot with yt-dlp & Cookies Support
 
 **BotDS** adalah bot Discord sederhana berbasis `discord.py` yang dapat memutar musik dari YouTube menggunakan `yt-dlp`, dengan dukungan cookies browser agar bisa melewati pembatasan YouTube.
