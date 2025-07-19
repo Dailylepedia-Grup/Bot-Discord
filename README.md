@@ -18,8 +18,8 @@
 
 # 1. Clone repositori
 ```
-git clone https://github.com/username/BotDS.git
-cd BotDS
+git clone https://github.com/Dailylepedia-Grup/Bot-Discord.git
+cd Bot-Discord
 ```
 # 2. Buat virtual environment (opsional tapi disarankan)
 ```
