@@ -72,7 +72,7 @@ YTDL_OPTIONS = {
     ...
 }
 ```
-#🧩 Dependency
+# 🧩 Dependency
 ```
 discord.py
 yt-dlp
