@@ -73,7 +73,7 @@ YTDL_OPTIONS = {
 }
 ```
 #🧩 Dependency
-
+```
 discord.py
 yt-dlp
 python-dotenv
@@ -81,7 +81,7 @@ browser-cookie3
 PyNaCl
 aiohttp
 requests
-
+```
 # 📄 Lisensi
 Proyek ini open source dan menggunakan lisensi MIT.
 
